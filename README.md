@@ -1,3 +1,3 @@
 # html-css-simple
 
-![](img/readme.jpg)
+![](img/readme.png)
